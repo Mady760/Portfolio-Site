@@ -251,3 +251,25 @@ text-decoration: none;
         font-size: 2rem;
     }
 }
+@media (max-width: 400px){
+    html{
+        font-size: 46%;
+    }
+    .firstSec img{
+        height: 100vh;
+        width: 200%;
+    }
+    .firstSec h1{
+        font-size: 30vh;
+    }
+    .forthSec h2{
+        font-size: 10rem;
+    }
+    .third .projectsIntor{
+        font-size: 12rem;
+    }
+    .fifthSec .down img{
+        height: 50vh;
+    }
+
+}
